@@ -1,5 +1,5 @@
 {
-  "name": "typed-fetch",
+  "name": "  @ekramnur/typed-fetch",
   "version": "1.0.0",
   "description": "A small type-safe fetch wrapper using TypeScript and Result types.",
   "type": "module",
